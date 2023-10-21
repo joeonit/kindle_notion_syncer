@@ -1,0 +1,4 @@
+- name: web
+  buildCommand: python3 kindle_notion_syncer.py
+  startCommand: python3 kindle_notion_syncer.py
+
